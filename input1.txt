@@ -1,0 +1,6 @@
+ProblemType
+Type 2
+Type 1
+Type 3
+Type 2
+Type 1

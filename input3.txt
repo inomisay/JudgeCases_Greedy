@@ -1,0 +1,13 @@
+ProblemType
+Type 4
+Type 6
+Type 5
+Type 10
+Type 4
+Type 10
+Type 4
+Type 9
+Type 6
+Type 1
+Type 6
+Type 1
